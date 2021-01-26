@@ -4,5 +4,5 @@
 - 💻 I'm fond of programming. A brief description of my journey: pascal › c++ › html, css, js, php, mysql › java › svelte, firebase › rust, flutter 
 
 ### Challenges
-- [Kattis](https://open.kattis.com/users/meowster)
+- [Kattis](https://open.kattis.com/users/meowster) [[solutions](https://mega.nz/folder/YRVQ0RwJ#uHmo-dnF2TPGZlDx8TNT_g)]
 - [LeetCode](https://leetcode.com/meowningmaster)
