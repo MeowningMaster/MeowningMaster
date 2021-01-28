@@ -5,4 +5,5 @@
 
 ### Challenges
 - [Kattis](https://open.kattis.com/users/meowster) [[solutions](https://mega.nz/folder/YRVQ0RwJ#uHmo-dnF2TPGZlDx8TNT_g)]
+- [Codeforces](https://codeforces.com/profile/MeowningMaster)
 - [LeetCode](https://leetcode.com/meowningmaster)
