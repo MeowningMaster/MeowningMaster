@@ -6,5 +6,3 @@
 ### Challenges
 - [Kattis](https://open.kattis.com/users/meowster) [[solutions](https://mega.nz/folder/YRVQ0RwJ#uHmo-dnF2TPGZlDx8TNT_g)]
 - [Google's Coding Competitions](https://codingcompetitions.withgoogle.com/) [[solutions](https://mega.nz/folder/8YkghQjI#1A1nlhpOAgDtD7VbI5cGVg)]
-- [Codeforces](https://codeforces.com/profile/MeowningMaster) [[solutions](https://mega.nz/folder/AYl3HSRa#JEiLSoE-HyG8XBSMsY_G7Q)]
-- [LeetCode](https://leetcode.com/meowningmaster) [[solutions](https://mega.nz/folder/QU8yWSRI#dmDabTu47Qri5p7IFN5Ojg)]
